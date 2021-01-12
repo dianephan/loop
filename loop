@@ -1,4 +1,4 @@
-for i in range(0, 5001, 1):
+for i in range(0, 500, 1):
     print("loop ")
 loop 
 loop 
